@@ -1,0 +1,1184 @@
+[BLOCK_1][SLIDE_162_SHAPE_9_PARA_0]
+•	Fundamental concepts of auditing
+
+[BLOCK_2][SLIDE_162_SHAPE_9_PARA_1]
+•	Roles and responsibilities of auditors
+
+[BLOCK_3][SLIDE_162_SHAPE_9_PARA_2]
+•	Ethical considerations in auditing
+
+[BLOCK_4][SLIDE_163_SHAPE_5_PARA_0]
+An audit is a systematic, independent and documented
+
+[BLOCK_5][SLIDE_163_SHAPE_5_PARA_1]
+process for obtaining audit evidence and evaluating it
+
+[BLOCK_6][SLIDE_163_SHAPE_5_PARA_2]
+objectively to determine the extent to which audit criteria
+
+[BLOCK_7][SLIDE_163_SHAPE_5_PARA_3]
+are fulfilled
+
+[BLOCK_8][SLIDE_163_SHAPE_5_PARA_4]
+Definition is ISO 19011:2011 Guidelines for management
+
+[BLOCK_9][SLIDE_163_SHAPE_5_PARA_5]
+systems auditing
+
+[BLOCK_10][SLIDE_164_SHAPE_5_PARA_0]
+Possible reasons to audit:
+
+[BLOCK_11][SLIDE_164_SHAPE_5_PARA_1]
+ensure compliance with ISO 7101:2023
+
+[BLOCK_12][SLIDE_164_SHAPE_5_PARA_2]
+ensure compliance with organization
+
+[BLOCK_13][SLIDE_164_SHAPE_5_PARA_3]
+requirements
+
+[BLOCK_14][SLIDE_164_SHAPE_5_PARA_4]
+ensure compliance with regulatory requirements
+
+[BLOCK_15][SLIDE_164_SHAPE_5_PARA_5]
+ensure the AIMS is effectively implemented and
+
+[BLOCK_16][SLIDE_164_SHAPE_5_PARA_6]
+maintained
+
+[BLOCK_17][SLIDE_165_SHAPE_5_PARA_0]
+Auditing for improved performance
+
+[BLOCK_18][SLIDE_165_SHAPE_5_PARA_1]
+look for opportunities for improvement
+
+[BLOCK_19][SLIDE_165_SHAPE_5_PARA_2]
+look for best practices that could be applied in
+
+[BLOCK_20][SLIDE_165_SHAPE_5_PARA_3]
+other areas
+
+[BLOCK_21][SLIDE_165_SHAPE_5_PARA_4]
+look for preventive action
+
+[BLOCK_22][SLIDE_165_SHAPE_5_PARA_5]
+look for outstanding emphasis on customer
+
+[BLOCK_23][SLIDE_165_SHAPE_5_PARA_6]
+satisfaction
+
+[BLOCK_24][SLIDE_166_SHAPE_5_PARA_0]
+A periodic audit of Healthcare Quality of the
+
+[BLOCK_25][SLIDE_166_SHAPE_5_PARA_1]
+system performance against written standard is
+
+[BLOCK_26][SLIDE_166_SHAPE_5_PARA_2]
+needed todetect corner-cutting, non-compliance
+
+[BLOCK_27][SLIDE_166_SHAPE_5_PARA_3]
+and intentional violations of established
+
+[BLOCK_28][SLIDE_166_SHAPE_5_PARA_4]
+Healthcare Quality procedures..
+
+[BLOCK_29][SLIDE_167_SHAPE_11_PARA_0]
+Procedures for attaining Healthcare Quality are such that, if
+
+[BLOCK_30][SLIDE_167_SHAPE_11_PARA_1]
+followed, the intended Healthcare Quality will beobtained.
+
+[BLOCK_31][SLIDE_167_SHAPE_11_PARA_2]
+Laws and regulations are being followed.
+
+[BLOCK_32][SLIDE_167_SHAPE_11_PARA_3]
+There is conformance to specifications.
+
+[BLOCK_33][SLIDE_167_SHAPE_11_PARA_4]
+Written procedures are adequate and being followed.
+
+[BLOCK_34][SLIDE_167_SHAPE_11_PARA_5]
+The data system is able to provide adequate information on
+
+[BLOCK_35][SLIDE_167_SHAPE_11_PARA_6]
+Artificial Intelligence .
+
+[BLOCK_36][SLIDE_167_SHAPE_11_PARA_7]
+Corrective action is being taken with respect to deficiencies.
+
+[BLOCK_37][SLIDE_167_SHAPE_11_PARA_8]
+Opportunities for improvements are identified.
+
+[BLOCK_38][SLIDE_168_SHAPE_5_PARA_0]
+There are 3 components of a process audit.
+
+[BLOCK_39][SLIDE_168_SHAPE_5_PARA_1]
+Horizontal and Vertical paths and Audit Trails
+
+[BLOCK_40][SLIDE_168_SHAPE_5_PARA_2]
+Following the horizontal path we follow the
+
+[BLOCK_41][SLIDE_168_SHAPE_5_PARA_3]
+steps of the process from start to finish
+
+[BLOCK_42][SLIDE_168_SHAPE_5_PARA_4]
+For the vertical path we must look at the
+
+[BLOCK_43][SLIDE_168_SHAPE_5_PARA_5]
+activities of managers, supervisors, operatives,
+
+[BLOCK_44][SLIDE_168_SHAPE_5_PARA_6]
+clerks and assistants up or down the activity or
+
+[BLOCK_45][SLIDE_168_SHAPE_5_PARA_7]
+process.We look at business measures down to
+
+[BLOCK_46][SLIDE_168_SHAPE_5_PARA_8]
+records of the activity
+
+[BLOCK_47][SLIDE_168_SHAPE_5_PARA_9]
+Audit trails develop a logical sequence of
+
+[BLOCK_48][SLIDE_168_SHAPE_5_PARA_10]
+questions and interviews to explore and link
+
+[BLOCK_49][SLIDE_168_SHAPE_5_PARA_11]
+activities
+
+[BLOCK_50][SLIDE_170_SHAPE_5_PARA_0]
+•	Audit Risk is the risk that an auditor expresses an
+
+[BLOCK_51][SLIDE_170_SHAPE_5_PARA_1]
+inappropriate opinion on the Audit Report
+
+[BLOCK_52][SLIDE_170_SHAPE_5_PARA_2]
+•	Examples of inappropriate audit opinion include the
+
+[BLOCK_53][SLIDE_170_SHAPE_5_PARA_3]
+following
+
+[BLOCK_54][SLIDE_170_SHAPE_5_PARA_4]
+•	1. issuingan unqualified audit report where a
+
+[BLOCK_55][SLIDE_170_SHAPE_5_PARA_5]
+qualification is reasonably justified ;
+
+[BLOCK_56][SLIDE_170_SHAPE_5_PARA_6]
+•	2.issuing a qualified audit opinion where no
+
+[BLOCK_57][SLIDE_170_SHAPE_5_PARA_7]
+qualification is necessary;
+
+[BLOCK_58][SLIDE_170_SHAPE_5_PARA_8]
+•	3.failing to emphasize a significant matter in the audit
+
+[BLOCK_59][SLIDE_170_SHAPE_5_PARA_9]
+report ;
+
+[BLOCK_60][SLIDE_170_SHAPE_5_PARA_10]
+•	4.providing an opinion on financial statement where
+
+[BLOCK_61][SLIDE_170_SHAPE_5_PARA_11]
+no such opinion may be reasonably given due to
+
+[BLOCK_62][SLIDE_170_SHAPE_5_PARA_12]
+significant limitation of scope in the performance of
+
+[BLOCK_63][SLIDE_170_SHAPE_5_PARA_13]
+the audit.
+
+[BLOCK_64][SLIDE_171_SHAPE_4_PARA_0]
+Audit risk may be considered as the product of
+
+[BLOCK_65][SLIDE_171_SHAPE_4_PARA_1]
+the various risks which may be encountered in
+
+[BLOCK_66][SLIDE_171_SHAPE_4_PARA_2]
+the performance of the audit. In order to keep
+
+[BLOCK_67][SLIDE_171_SHAPE_4_PARA_3]
+the overall audit risk of engagements below
+
+[BLOCK_68][SLIDE_171_SHAPE_4_PARA_4]
+acceptable limit, the auditor must assess the
+
+[BLOCK_69][SLIDE_171_SHAPE_4_PARA_5]
+level of risk pertaining to each component of
+
+[BLOCK_70][SLIDE_171_SHAPE_4_PARA_6]
+audit risk.
+
+[BLOCK_71][SLIDE_171_SHAPE_4_PARA_7]
+Audit Risk = Inherent Risk* Control
+
+[BLOCK_72][SLIDE_171_SHAPE_4_PARA_8]
+Risk*Detection Risk
+
+[BLOCK_73][SLIDE_171_SHAPE_4_PARA_9]
+→ AR = IRxCRxDR
+
+[BLOCK_74][SLIDE_172_SHAPE_4_PARA_0]
+Inherent risks
+
+[BLOCK_75][SLIDE_172_SHAPE_4_PARA_1]
+Control risks
+
+[BLOCK_76][SLIDE_172_SHAPE_4_PARA_2]
+Detection risks
+
+[BLOCK_77][SLIDE_172_SHAPE_4_PARA_3]
+Acceptable/Residual risks
+
+[BLOCK_78][SLIDE_173_SHAPE_17_PARA_0]
+Inherent Risk
+
+[BLOCK_79][SLIDE_173_SHAPE_17_PARA_1]
+(IR)
+
+[BLOCK_80][SLIDE_173_SHAPE_18_PARA_0]
+Control Risk
+
+[BLOCK_81][SLIDE_173_SHAPE_18_PARA_1]
+(CR)
+
+[BLOCK_82][SLIDE_173_SHAPE_19_PARA_0]
+Detection Risk
+
+[BLOCK_83][SLIDE_173_SHAPE_19_PARA_1]
+(DR)
+
+[BLOCK_84][SLIDE_173_SHAPE_20_PARA_0]
+Audit Risk
+
+[BLOCK_85][SLIDE_173_SHAPE_20_PARA_1]
+(AR)
+
+[BLOCK_86][SLIDE_173_SHAPE_21_PARA_0]
+Susceptibility of an assertion to material
+
+[BLOCK_87][SLIDE_173_SHAPE_21_PARA_1]
+misstatement assuming no related internal
+
+[BLOCK_88][SLIDE_173_SHAPE_21_PARA_2]
+controls. This is assessed in ISO application
+
+[BLOCK_89][SLIDE_173_SHAPE_21_PARA_3]
+form to determine complexities, scope and
+
+[BLOCK_90][SLIDE_173_SHAPE_21_PARA_4]
+audit duration
+
+[BLOCK_91][SLIDE_173_SHAPE_21_PARA_5]
+Risk of misstatements not being
+
+[BLOCK_92][SLIDE_173_SHAPE_21_PARA_6]
+detected by system of internal
+
+[BLOCK_93][SLIDE_173_SHAPE_21_PARA_7]
+control.
+
+[BLOCK_94][SLIDE_173_SHAPE_22_PARA_0]
+Risk of misstatements not being
+
+[BLOCK_95][SLIDE_173_SHAPE_22_PARA_1]
+detected by the auditor.
+
+[BLOCK_96][SLIDE_173_SHAPE_23_PARA_0]
+Misstatement that remains
+
+[BLOCK_97][SLIDE_173_SHAPE_23_PARA_1]
+undetected by the auditor.
+
+[BLOCK_98][SLIDE_173_SHAPE_24_PARA_0]
+Caught by
+
+[BLOCK_99][SLIDE_173_SHAPE_24_PARA_1]
+internal
+
+[BLOCK_100][SLIDE_173_SHAPE_24_PARA_2]
+controls
+
+[BLOCK_101][SLIDE_173_SHAPE_25_PARA_0]
+Caught by
+
+[BLOCK_102][SLIDE_173_SHAPE_25_PARA_1]
+auditor
+
+[BLOCK_103][SLIDE_173_SHAPE_26_PARA_0]
+Undetected
+
+[BLOCK_104][SLIDE_173_SHAPE_26_PARA_1]
+misstatement/
+
+[BLOCK_105][SLIDE_173_SHAPE_26_PARA_2]
+residual
+
+[BLOCK_106][SLIDE_173_SHAPE_27_PARA_0]
+Nature of
+
+[BLOCK_107][SLIDE_173_SHAPE_27_PARA_1]
+industry/Total
+
+[BLOCK_108][SLIDE_173_SHAPE_27_PARA_2]
+misstatement
+
+[BLOCK_109][SLIDE_173_SHAPE_27_PARA_3]
+-
+
+[BLOCK_110][SLIDE_173_SHAPE_28_PARA_0]
+-
+
+[BLOCK_111][SLIDE_173_SHAPE_29_PARA_0]
+=
+
+[BLOCK_112][SLIDE_174_SHAPE_5_PARA_0]
+•	Inherent risk is the total risk of failure unique to an
+
+[BLOCK_113][SLIDE_174_SHAPE_5_PARA_1]
+enterprise/ industry as a result of the nature of their
+
+[BLOCK_114][SLIDE_174_SHAPE_5_PARA_2]
+activities without any form of control
+
+[BLOCK_115][SLIDE_174_SHAPE_5_PARA_3]
+•	Inherent Risk is the risk of a material misstatement in the
+
+[BLOCK_116][SLIDE_174_SHAPE_5_PARA_4]
+clients claim/ or internal audit report arising due to error or
+
+[BLOCK_117][SLIDE_174_SHAPE_5_PARA_5]
+omission as a result of factors other than the failure of
+
+[BLOCK_118][SLIDE_174_SHAPE_5_PARA_6]
+controls.
+
+[BLOCK_119][SLIDE_174_SHAPE_5_PARA_7]
+•	Inherent risk is generally considered to be higher where a
+
+[BLOCK_120][SLIDE_174_SHAPE_5_PARA_8]
+high degree of judgement and estimation is involved or
+
+[BLOCK_121][SLIDE_174_SHAPE_5_PARA_9]
+where transactionsof entity are highly complex.
+
+[BLOCK_122][SLIDE_175_SHAPE_7_PARA_0]
+Nature of the Client’s Business
+
+[BLOCK_123][SLIDE_175_SHAPE_7_PARA_1]
+Results of Previous Audits
+
+[BLOCK_124][SLIDE_175_SHAPE_7_PARA_2]
+Initial vs. Repeat Engagement
+
+[BLOCK_125][SLIDE_175_SHAPE_7_PARA_3]
+Related Parties
+
+[BLOCK_126][SLIDE_176_SHAPE_9_PARA_0]
+Inherent risk is likely to vary from
+
+[BLOCK_127][SLIDE_176_SHAPE_9_PARA_1]
+business to business- Banking vs oil and
+
+[BLOCK_128][SLIDE_176_SHAPE_9_PARA_2]
+gas risks.
+
+[BLOCK_129][SLIDE_176_SHAPE_9_PARA_3]
+The nature of the business have little on
+
+[BLOCK_130][SLIDE_176_SHAPE_9_PARA_4]
+system risks until system of control is
+
+[BLOCK_131][SLIDE_176_SHAPE_9_PARA_5]
+applied.
+
+[BLOCK_132][SLIDE_177_SHAPE_8_PARA_0]
+Misstatements found in the
+
+[BLOCK_133][SLIDE_177_SHAPE_8_PARA_1]
+previous year’s audit have a
+
+[BLOCK_134][SLIDE_177_SHAPE_8_PARA_2]
+high likelihood of occurring
+
+[BLOCK_135][SLIDE_177_SHAPE_8_PARA_3]
+again.
+
+[BLOCK_136][SLIDE_177_SHAPE_8_PARA_4]
+Many types of
+
+[BLOCK_137][SLIDE_177_SHAPE_8_PARA_5]
+misstatements are
+
+[BLOCK_138][SLIDE_177_SHAPE_8_PARA_6]
+systematic in nature, and
+
+[BLOCK_139][SLIDE_177_SHAPE_8_PARA_7]
+organizations are slow in
+
+[BLOCK_140][SLIDE_177_SHAPE_8_PARA_8]
+making changes to
+
+[BLOCK_141][SLIDE_177_SHAPE_8_PARA_9]
+eliminate them.
+
+[BLOCK_142][SLIDE_178_SHAPE_36_PARA_0]
+Examples of related
+
+[BLOCK_143][SLIDE_178_SHAPE_36_PARA_1]
+party are those
+
+[BLOCK_144][SLIDE_178_SHAPE_36_PARA_2]
+between parent and
+
+[BLOCK_145][SLIDE_178_SHAPE_36_PARA_3]
+subsidiary companies,
+
+[BLOCK_146][SLIDE_178_SHAPE_36_PARA_4]
+and management or
+
+[BLOCK_147][SLIDE_178_SHAPE_36_PARA_5]
+owners and the
+
+[BLOCK_148][SLIDE_178_SHAPE_36_PARA_6]
+auditor.
+
+[BLOCK_149][SLIDE_178_SHAPE_36_PARA_7]
+Increases inherent risk
+
+[BLOCK_150][SLIDE_178_SHAPE_36_PARA_8]
+because there is a
+
+[BLOCK_151][SLIDE_178_SHAPE_36_PARA_9]
+greater likelihood of
+
+[BLOCK_152][SLIDE_178_SHAPE_36_PARA_10]
+misstatement.
+
+[BLOCK_153][SLIDE_179_SHAPE_4_PARA_0]
+•	Control risk is the risk that a control may not be
+
+[BLOCK_154][SLIDE_179_SHAPE_4_PARA_1]
+adequate to reduce or prevent failure and audit may
+
+[BLOCK_155][SLIDE_179_SHAPE_4_PARA_2]
+not detect it.
+
+[BLOCK_156][SLIDE_179_SHAPE_4_PARA_3]
+•	Control Risk is the risk of a material misstatement in
+
+[BLOCK_157][SLIDE_179_SHAPE_4_PARA_4]
+the audit report arising due to absence or failure in
+
+[BLOCK_158][SLIDE_179_SHAPE_4_PARA_5]
+the operation of relevant controls of the entity.
+
+[BLOCK_159][SLIDE_179_SHAPE_4_PARA_6]
+•	Organizations must have adequate internal controls in
+
+[BLOCK_160][SLIDE_179_SHAPE_4_PARA_7]
+place to prevent and detect instances of fraud and
+
+[BLOCK_161][SLIDE_179_SHAPE_4_PARA_8]
+error.
+
+[BLOCK_162][SLIDE_179_SHAPE_4_PARA_9]
+•	Assessment of control risk may be higher for example
+
+[BLOCK_163][SLIDE_179_SHAPE_4_PARA_10]
+in case of a small sizedentity in which segregation of
+
+[BLOCK_164][SLIDE_179_SHAPE_4_PARA_11]
+duties is not well defined and the audit report are
+
+[BLOCK_165][SLIDE_179_SHAPE_4_PARA_12]
+prepared by individuals who do not have the
+
+[BLOCK_166][SLIDE_179_SHAPE_4_PARA_13]
+necessary technical knowledge of system audit.
+
+[BLOCK_167][SLIDE_180_SHAPE_4_PARA_0]
+•	Detection Risk is the risk that the auditors fail to
+
+[BLOCK_168][SLIDE_180_SHAPE_4_PARA_1]
+detect a material misstatement in the financial
+
+[BLOCK_169][SLIDE_180_SHAPE_4_PARA_2]
+statements.
+
+[BLOCK_170][SLIDE_180_SHAPE_4_PARA_3]
+•	An auditor must apply audit procedures to detect
+
+[BLOCK_171][SLIDE_180_SHAPE_4_PARA_4]
+material misstatements in the internal audit reports
+
+[BLOCK_172][SLIDE_180_SHAPE_4_PARA_5]
+whether due to fraud or error. misapplication or
+
+[BLOCK_173][SLIDE_180_SHAPE_4_PARA_6]
+omission of critical audit procedures may results in
+
+[BLOCK_174][SLIDE_180_SHAPE_4_PARA_7]
+material misstatement remaining undetected by the
+
+[BLOCK_175][SLIDE_180_SHAPE_4_PARA_8]
+auditor . Some detection risk is always present due to
+
+[BLOCK_176][SLIDE_180_SHAPE_4_PARA_9]
+the inherent limitation of the audit such as the use of
+
+[BLOCK_177][SLIDE_180_SHAPE_4_PARA_10]
+sampling for the selection of controls and the audit
+
+[BLOCK_178][SLIDE_180_SHAPE_4_PARA_11]
+duration.
+
+[BLOCK_179][SLIDE_181_SHAPE_4_PARA_0]
+•Residual risk is the level of risk after taking into
+
+[BLOCK_180][SLIDE_181_SHAPE_4_PARA_1]
+account risk mitigation actions such as control
+
+[BLOCK_181][SLIDE_181_SHAPE_4_PARA_2]
+activities.
+
+[BLOCK_182][SLIDE_181_SHAPE_4_PARA_3]
+•Residual risk is acceptable if the organisation
+
+[BLOCK_183][SLIDE_181_SHAPE_4_PARA_4]
+considers it too small to have significant
+
+[BLOCK_184][SLIDE_181_SHAPE_4_PARA_5]
+impact on their activities. It is unaccpetable
+
+[BLOCK_185][SLIDE_181_SHAPE_4_PARA_6]
+risk if inherent risk is not controlled and not
+
+[BLOCK_186][SLIDE_181_SHAPE_4_PARA_7]
+detected by audit.
+
+[BLOCK_187][SLIDE_182_SHAPE_7_PARA_0]
+Acceptable risk mean that audit risk
+
+[BLOCK_188][SLIDE_182_SHAPE_7_PARA_1]
+should be kept lower:
+
+[BLOCK_189][SLIDE_182_SHAPE_8_PARA_0]
+1.	Reliance by External Users
+
+[BLOCK_190][SLIDE_182_SHAPE_8_PARA_1]
+2.	Likelihood of System Failure/ Errors
+
+[BLOCK_191][SLIDE_182_SHAPE_8_PARA_2]
+3.	Integrity of Management
+
+[BLOCK_192][SLIDE_183_SHAPE_46_PARA_0]
+When external users place
+
+[BLOCK_193][SLIDE_183_SHAPE_46_PARA_1]
+heavy emphasis on the
+
+[BLOCK_194][SLIDE_183_SHAPE_46_PARA_2]
+Audit report, acceptable
+
+[BLOCK_195][SLIDE_183_SHAPE_46_PARA_3]
+audit risk should be kept
+
+[BLOCK_196][SLIDE_183_SHAPE_46_PARA_4]
+low.The following
+
+[BLOCK_197][SLIDE_183_SHAPE_46_PARA_5]
+generally results in more
+
+[BLOCK_198][SLIDE_183_SHAPE_46_PARA_6]
+users of the audit report:
+
+[BLOCK_199][SLIDE_183_SHAPE_46_PARA_7]
+Increase clients
+
+[BLOCK_200][SLIDE_183_SHAPE_46_PARA_8]
+Public trust
+
+[BLOCK_201][SLIDE_183_SHAPE_46_PARA_9]
+Extensive use of liabilities
+
+[BLOCK_202][SLIDE_184_SHAPE_11_PARA_0]
+There is a greater chance of having to defend the
+
+[BLOCK_203][SLIDE_184_SHAPE_11_PARA_1]
+quality of the audit when there is a system failure.
+
+[BLOCK_204][SLIDE_184_SHAPE_11_PARA_2]
+Failure indicators include:
+
+[BLOCK_205][SLIDE_184_SHAPE_11_PARA_3]
+Product defects
+
+[BLOCK_206][SLIDE_184_SHAPE_11_PARA_4]
+Increasing Customer complaints
+
+[BLOCK_207][SLIDE_184_SHAPE_11_PARA_5]
+Declining Sales
+
+[BLOCK_208][SLIDE_184_SHAPE_11_PARA_6]
+Increase returns of products
+
+[BLOCK_209][SLIDE_184_SHAPE_11_PARA_7]
+Warranty / litigations
+
+[BLOCK_210][SLIDE_184_SHAPE_11_PARA_8]
+Technical failures
+
+[BLOCK_211][SLIDE_184_SHAPE_11_PARA_9]
+Management lacking competency
+
+[BLOCK_212][SLIDE_185_SHAPE_7_PARA_0]
+If a client has questionable integrity, the auditor
+
+[BLOCK_213][SLIDE_185_SHAPE_7_PARA_1]
+is likely to assess acceptable audit risk lower.
+
+[BLOCK_214][SLIDE_185_SHAPE_7_PARA_2]
+Indications of integrity problems include:
+
+[BLOCK_215][SLIDE_185_SHAPE_7_PARA_3]
+❑Frequent disagreements with prior auditors or
+
+[BLOCK_216][SLIDE_185_SHAPE_7_PARA_4]
+certification body
+
+[BLOCK_217][SLIDE_185_SHAPE_7_PARA_5]
+❑Frequent turnover of internal audit personnel
+
+[BLOCK_218][SLIDE_185_SHAPE_7_PARA_6]
+❑Ongoing conflicts with labor unions and
+
+[BLOCK_219][SLIDE_185_SHAPE_7_PARA_7]
+employees
+
+[BLOCK_220][SLIDE_186_SHAPE_7_PARA_0]
+There are two basic phases to an auditor’s
+
+[BLOCK_221][SLIDE_186_SHAPE_7_PARA_1]
+evaluation of control risk:
+
+[BLOCK_222][SLIDE_186_SHAPE_7_PARA_2]
+1.	Obtain an understanding of internal control.
+
+[BLOCK_223][SLIDE_186_SHAPE_7_PARA_3]
+This phase applies to all audits.
+
+[BLOCK_224][SLIDE_186_SHAPE_7_PARA_4]
+2.	Test the internal controls for effectiveness.
+
+[BLOCK_225][SLIDE_186_SHAPE_7_PARA_5]
+This phase only applies when the auditor
+
+[BLOCK_226][SLIDE_186_SHAPE_7_PARA_6]
+chooses to assess control risk at below the
+
+[BLOCK_227][SLIDE_186_SHAPE_7_PARA_7]
+maximum.
+
+[BLOCK_228][SLIDE_187_SHAPE_9_PARA_0]
+The auditor can reduce planned detection risk by
+
+[BLOCK_229][SLIDE_187_SHAPE_9_PARA_1]
+performing more substantive audit procedures.
+
+[BLOCK_230][SLIDE_187_SHAPE_9_PARA_2]
+Increased
+
+[BLOCK_231][SLIDE_187_SHAPE_9_PARA_3]
+audit
+
+[BLOCK_232][SLIDE_187_SHAPE_9_PARA_4]
+evidence
+
+[BLOCK_233][SLIDE_187_SHAPE_10_PARA_0]
+Lower
+
+[BLOCK_234][SLIDE_187_SHAPE_10_PARA_1]
+Detection
+
+[BLOCK_235][SLIDE_187_SHAPE_10_PARA_2]
+Risk
+
+[BLOCK_236][SLIDE_188_SHAPE_9_PARA_0]
+A.	Acceptable Audit Risk Relationships
+
+[BLOCK_237][SLIDE_188_SHAPE_9_PARA_1]
+B.	Inherent Risk Relationships
+
+[BLOCK_238][SLIDE_188_SHAPE_9_PARA_2]
+C.	Control Risk Relationships
+
+[BLOCK_239][SLIDE_188_SHAPE_9_PARA_3]
+D.	The Overall Relationship of Components in
+
+[BLOCK_240][SLIDE_188_SHAPE_9_PARA_4]
+Planning the Audit Process
+
+[BLOCK_241][SLIDE_189_SHAPE_14_PARA_0]
+Acceptable audit risk is the risk that the auditor is
+
+[BLOCK_242][SLIDE_189_SHAPE_14_PARA_1]
+willing to take of giving an unqualified opinion when
+
+[BLOCK_243][SLIDE_189_SHAPE_14_PARA_2]
+the audit report is materially misstated.
+
+[BLOCK_244][SLIDE_189_SHAPE_14_PARA_3]
+As acceptable audit risk increases, the auditor is
+
+[BLOCK_245][SLIDE_189_SHAPE_14_PARA_4]
+willing to collect less evidence (inverse) and therefore
+
+[BLOCK_246][SLIDE_189_SHAPE_14_PARA_5]
+accept a higher detection risk (direct).
+
+[BLOCK_247][SLIDE_189_SHAPE_15_PARA_0]
+Acceptable
+
+[BLOCK_248][SLIDE_189_SHAPE_15_PARA_1]
+audit risk
+
+[BLOCK_249][SLIDE_189_SHAPE_16_PARA_0]
+Planned
+
+[BLOCK_250][SLIDE_189_SHAPE_16_PARA_1]
+detection risk
+
+[BLOCK_251][SLIDE_189_SHAPE_17_PARA_0]
+Planned
+
+[BLOCK_252][SLIDE_189_SHAPE_17_PARA_1]
+audit evidence
+
+[BLOCK_253][SLIDE_189_SHAPE_18_PARA_0]
+Direct	Invers
+
+[BLOCK_254][SLIDE_190_SHAPE_13_PARA_0]
+Inherent risk is the susceptibility of an assertion to
+
+[BLOCK_255][SLIDE_190_SHAPE_13_PARA_1]
+material misstatement assuming no related internal
+
+[BLOCK_256][SLIDE_190_SHAPE_13_PARA_2]
+controls.
+
+[BLOCK_257][SLIDE_190_SHAPE_13_PARA_3]
+As inherent risk increases, the auditor must reduce
+
+[BLOCK_258][SLIDE_190_SHAPE_13_PARA_4]
+detection risk (inverse) by collecting more audit
+
+[BLOCK_259][SLIDE_190_SHAPE_13_PARA_5]
+evidence (direct).
+
+[BLOCK_260][SLIDE_190_SHAPE_14_PARA_0]
+Inherent
+
+[BLOCK_261][SLIDE_190_SHAPE_14_PARA_1]
+risk
+
+[BLOCK_262][SLIDE_190_SHAPE_15_PARA_0]
+Planned
+
+[BLOCK_263][SLIDE_190_SHAPE_15_PARA_1]
+detection risk
+
+[BLOCK_264][SLIDE_190_SHAPE_16_PARA_0]
+Planned
+
+[BLOCK_265][SLIDE_190_SHAPE_16_PARA_1]
+audit evidence
+
+[BLOCK_266][SLIDE_190_SHAPE_17_PARA_0]
+I
+
+[BLOCK_267][SLIDE_190_SHAPE_18_PARA_0]
+D
+
+[BLOCK_268][SLIDE_191_SHAPE_12_PARA_0]
+Control risk is the risk of misstatements not being
+
+[BLOCK_269][SLIDE_191_SHAPE_12_PARA_1]
+detected by the client’s system of internal control.
+
+[BLOCK_270][SLIDE_191_SHAPE_12_PARA_2]
+As control risk increases, the auditor must reduce
+
+[BLOCK_271][SLIDE_191_SHAPE_12_PARA_3]
+detection risk (inverse) by collecting more audit
+
+[BLOCK_272][SLIDE_191_SHAPE_12_PARA_4]
+evidence (direct).
+
+[BLOCK_273][SLIDE_191_SHAPE_13_PARA_0]
+Control
+
+[BLOCK_274][SLIDE_191_SHAPE_13_PARA_1]
+risk
+
+[BLOCK_275][SLIDE_191_SHAPE_14_PARA_0]
+Planned
+
+[BLOCK_276][SLIDE_191_SHAPE_14_PARA_1]
+detection risk
+
+[BLOCK_277][SLIDE_191_SHAPE_15_PARA_0]
+Planned
+
+[BLOCK_278][SLIDE_191_SHAPE_15_PARA_1]
+audit evidence
+
+[BLOCK_279][SLIDE_191_SHAPE_15_PARA_2]
+I	D
+
+[BLOCK_280][SLIDE_192_SHAPE_22_PARA_0]
+Acceptable
+
+[BLOCK_281][SLIDE_192_SHAPE_22_PARA_1]
+audit risk
+
+[BLOCK_282][SLIDE_192_SHAPE_23_PARA_0]
+Inherent
+
+[BLOCK_283][SLIDE_192_SHAPE_23_PARA_1]
+risk
+
+[BLOCK_284][SLIDE_192_SHAPE_24_PARA_0]
+Control
+
+[BLOCK_285][SLIDE_192_SHAPE_24_PARA_1]
+risk
+
+[BLOCK_286][SLIDE_192_SHAPE_25_PARA_0]
+Tolerable
+
+[BLOCK_287][SLIDE_192_SHAPE_25_PARA_1]
+misstatement
+
+[BLOCK_288][SLIDE_192_SHAPE_26_PARA_0]
+Planned
+
+[BLOCK_289][SLIDE_192_SHAPE_26_PARA_1]
+detection risk
+
+[BLOCK_290][SLIDE_192_SHAPE_27_PARA_0]
+Planned
+
+[BLOCK_291][SLIDE_192_SHAPE_27_PARA_1]
+audit evidence
+
+[BLOCK_292][SLIDE_192_SHAPE_28_PARA_0]
+D = Direct relationship; I = Inverse relationship
+
+[BLOCK_293][SLIDE_192_SHAPE_29_PARA_0]
+I
+
+[BLOCK_294][SLIDE_192_SHAPE_30_PARA_0]
+D
+
+[BLOCK_295][SLIDE_192_SHAPE_31_PARA_0]
+I
+
+[BLOCK_296][SLIDE_192_SHAPE_32_PARA_0]
+I	I
+
+[BLOCK_297][SLIDE_192_SHAPE_33_PARA_0]
+I
+
+[BLOCK_298][SLIDE_192_SHAPE_34_PARA_0]
+D
+
+[BLOCK_299][SLIDE_192_SHAPE_35_PARA_0]
+D
+
+[BLOCK_300][SLIDE_193_SHAPE_102_PARA_0]
+A.	Audit Risk Model for Evaluating Results
+
+[BLOCK_301][SLIDE_193_SHAPE_102_PARA_1]
+B.	Reducing Achieved Audit Risk
+
+[BLOCK_302][SLIDE_193_SHAPE_102_PARA_2]
+C.	Revising Risks and Evidence
+
+[BLOCK_303][SLIDE_194_SHAPE_9_PARA_0]
+✓Reduce inherent risk – not feasible unless
+
+[BLOCK_304][SLIDE_194_SHAPE_9_PARA_1]
+new facts are uncovered during the audit
+
+[BLOCK_305][SLIDE_194_SHAPE_9_PARA_2]
+process.
+
+[BLOCK_306][SLIDE_194_SHAPE_9_PARA_3]
+✓Reduce control risk – may be possible to
+
+[BLOCK_307][SLIDE_194_SHAPE_9_PARA_4]
+reevaluate control risk to a lower level by
+
+[BLOCK_308][SLIDE_194_SHAPE_9_PARA_5]
+conducting more tests of internal controls.
+
+[BLOCK_309][SLIDE_194_SHAPE_9_PARA_6]
+✓Reduce achieved detection risk – can be
+
+[BLOCK_310][SLIDE_194_SHAPE_9_PARA_7]
+achieved by larger sample sizes and/or
+
+[BLOCK_311][SLIDE_194_SHAPE_9_PARA_8]
+additional audit procedures and engaging
+
+[BLOCK_312][SLIDE_194_SHAPE_9_PARA_9]
+competent auditor
+
+[BLOCK_313][SLIDE_195_SHAPE_148_PARA_0]
+Applying
+
+[BLOCK_314][SLIDE_195_SHAPE_148_PARA_1]
+Materiality
+
+[BLOCK_315][SLIDE_195_SHAPE_148_PARA_2]
+Risk and Audit
+
+[BLOCK_316][SLIDE_195_SHAPE_148_PARA_3]
+Planning
+
+[BLOCK_317][SLIDE_195_SHAPE_148_PARA_4]
+Evaluating Results
+
+[BLOCK_318][SLIDE_195_SHAPE_149_PARA_0]
+Audit Process
+
+[BLOCK_319][SLIDE_195_SHAPE_150_PARA_0]
+Internal Control
+
+[BLOCK_320][SLIDE_195_SHAPE_151_PARA_0]
+Risk
+
+[BLOCK_321][SLIDE_196_SHAPE_5_PARA_0]
+Explain application of materiality principle to ISO
+
+[BLOCK_322][SLIDE_196_SHAPE_5_PARA_1]
+7101 healthcare quality audit
+
+[BLOCK_323][SLIDE_197_SHAPE_4_PARA_0]
+Assessing inherent risk ---factors to consider, such as the
+
+[BLOCK_324][SLIDE_197_SHAPE_4_PARA_1]
+industry, nature of business activities, location of operation,
+
+[BLOCK_325][SLIDE_197_SHAPE_4_PARA_2]
+standards to be address, complexities of operations, scope
+
+[BLOCK_326][SLIDE_197_SHAPE_4_PARA_3]
+of assets at risk and previously known misstatements --
+
+[BLOCK_327][SLIDE_197_SHAPE_4_PARA_4]
+level of inherent risk for each audit area.This is done
+
+[BLOCK_328][SLIDE_197_SHAPE_4_PARA_5]
+during ISO application review and determination of audit
+
+[BLOCK_329][SLIDE_197_SHAPE_4_PARA_6]
+duration by the Certification Body (CB).
+
+[BLOCK_330][SLIDE_197_SHAPE_4_PARA_7]
+Assessing control risk--Segregation of duties, Adequate
+
+[BLOCK_331][SLIDE_197_SHAPE_4_PARA_8]
+documents and records, Physical control of assets and
+
+[BLOCK_332][SLIDE_197_SHAPE_4_PARA_9]
+records, Auditor’s independence and internal audit
+
+[BLOCK_333][SLIDE_197_SHAPE_4_PARA_10]
+Assessing detection risk--Applying an audit procedure,
+
+[BLOCK_334][SLIDE_197_SHAPE_4_PARA_11]
+interpreting audit results, Selecting the right audit testing
+
+[BLOCK_335][SLIDE_197_SHAPE_4_PARA_12]
+method.
+
+[BLOCK_336][SLIDE_198_SHAPE_21_PARA_0]
+Inherent
+
+[BLOCK_337][SLIDE_198_SHAPE_21_PARA_1]
+Risk (IR)
+
+[BLOCK_338][SLIDE_198_SHAPE_22_PARA_0]
+Control
+
+[BLOCK_339][SLIDE_198_SHAPE_22_PARA_1]
+Risk (CR)
+
+[BLOCK_340][SLIDE_198_SHAPE_23_PARA_0]
+Detection
+
+[BLOCK_341][SLIDE_198_SHAPE_23_PARA_1]
+Risk (DR)
+
+[BLOCK_342][SLIDE_198_SHAPE_24_PARA_0]
+Audit
+
+[BLOCK_343][SLIDE_198_SHAPE_24_PARA_1]
+Risk (AR)
+
+[BLOCK_344][SLIDE_198_SHAPE_25_PARA_0]
+Client’s misstatement in application form is not preventable. ISO
+
+[BLOCK_345][SLIDE_198_SHAPE_25_PARA_1]
+application is reviewed for audit duration and number of
+
+[BLOCK_346][SLIDE_198_SHAPE_25_PARA_2]
+auditors.
+
+[BLOCK_347][SLIDE_198_SHAPE_25_PARA_3]
+Audit duration is not always sufficient for all controls to be
+
+[BLOCK_348][SLIDE_198_SHAPE_25_PARA_4]
+checked. Hence auditor will maximise audit duration by focusing
+
+[BLOCK_349][SLIDE_198_SHAPE_25_PARA_5]
+on material controls/ function – controls, failure of which, will
+
+[BLOCK_350][SLIDE_198_SHAPE_25_PARA_6]
+greatly impact on achieving the certification objectives. Eg.
+
+[BLOCK_351][SLIDE_198_SHAPE_25_PARA_7]
+Internal audit, risk management
+
+[BLOCK_352][SLIDE_198_SHAPE_25_PARA_8]
+Auditor's willful misstatement can be prevented by: 1. ensuring
+
+[BLOCK_353][SLIDE_198_SHAPE_25_PARA_9]
+that auditor signs agreement with the CB. 2. Onsite and online
+
+[BLOCK_354][SLIDE_198_SHAPE_25_PARA_10]
+monitoring of audit. 3 The audit report are reviewed by a third
+
+[BLOCK_355][SLIDE_198_SHAPE_25_PARA_11]
+party to the audit and 4. Auditors are rotated among audits and
+
+[BLOCK_356][SLIDE_198_SHAPE_25_PARA_12]
+are subject to regular post-audit evaluation.
+
+[BLOCK_357][SLIDE_198_SHAPE_25_PARA_13]
+Inadvertent misstatement: by ensuring competent auditors are
+
+[BLOCK_358][SLIDE_198_SHAPE_25_PARA_14]
+assigned, guided by an expert and regular training/ CPD request.
+
+[BLOCK_359][SLIDE_198_SHAPE_25_PARA_15]
+Audit risks still remains far above 0%. CBs often determine their
+
+[BLOCK_360][SLIDE_198_SHAPE_25_PARA_16]
+risk acceptance criteria and level. Hence, consider that the
+
+[BLOCK_361][SLIDE_198_SHAPE_25_PARA_17]
+residual risk is cover by professional indemnity insurance and
+
+[BLOCK_362][SLIDE_198_SHAPE_25_PARA_18]
+materiality disclaimer.
+
+[BLOCK_363][SLIDE_198_SHAPE_26_PARA_0]
+Caught by
+
+[BLOCK_364][SLIDE_198_SHAPE_26_PARA_1]
+internal
+
+[BLOCK_365][SLIDE_198_SHAPE_26_PARA_2]
+controls
+
+[BLOCK_366][SLIDE_198_SHAPE_27_PARA_0]
+Caught by
+
+[BLOCK_367][SLIDE_198_SHAPE_27_PARA_1]
+auditor
+
+[BLOCK_368][SLIDE_198_SHAPE_28_PARA_0]
+Undetected
+
+[BLOCK_369][SLIDE_198_SHAPE_28_PARA_1]
+misstatement
+
+[BLOCK_370][SLIDE_198_SHAPE_28_PARA_2]
+/ residual
+
+[BLOCK_371][SLIDE_198_SHAPE_29_PARA_0]
+Nature of
+
+[BLOCK_372][SLIDE_198_SHAPE_29_PARA_1]
+industry/Total
+
+[BLOCK_373][SLIDE_198_SHAPE_29_PARA_2]
+misstatement
+
+[BLOCK_374][SLIDE_198_SHAPE_30_PARA_0]
+-
+
+[BLOCK_375][SLIDE_198_SHAPE_31_PARA_0]
+=
+
+[BLOCK_376][SLIDE_199_SHAPE_5_PARA_0]
+Because Audit duration is not always sufficient for all
+
+[BLOCK_377][SLIDE_199_SHAPE_5_PARA_1]
+controls to be checked. Auditor will maximise audit
+
+[BLOCK_378][SLIDE_199_SHAPE_5_PARA_2]
+duration by focusing on material controls/ function –
+
+[BLOCK_379][SLIDE_199_SHAPE_5_PARA_3]
+controls, failure of which, will greatly impact on
+
+[BLOCK_380][SLIDE_199_SHAPE_5_PARA_4]
+achieving the certification objectives like internal
+
+[BLOCK_381][SLIDE_199_SHAPE_5_PARA_5]
+audit, risk management etc.
+
+[BLOCK_382][SLIDE_199_SHAPE_5_PARA_6]
+Because audit risk still remains far above 0%. CBs often
+
+[BLOCK_383][SLIDE_199_SHAPE_5_PARA_7]
+determine their risk acceptance criteria and level.
+
+[BLOCK_384][SLIDE_199_SHAPE_5_PARA_8]
+Hence, consider that the residual risk is cover by
+
+[BLOCK_385][SLIDE_199_SHAPE_5_PARA_9]
+professional indemnity insurance and materiality
+
+[BLOCK_386][SLIDE_199_SHAPE_5_PARA_10]
+statement.
+
+[BLOCK_387][SLIDE_200_SHAPE_5_PARA_0]
+No auditor or certification body can claim that
+
+[BLOCK_388][SLIDE_200_SHAPE_5_PARA_1]
+audit has extensively detected all risks in an audit
+
+[BLOCK_389][SLIDE_200_SHAPE_5_PARA_2]
+or the system audited is totally free of errors/
+
+[BLOCK_390][SLIDE_200_SHAPE_5_PARA_3]
+risks, failures or fraud.
+
+[BLOCK_391][SLIDE_200_SHAPE_5_PARA_4]
+Hence, certification bodies issue certificates with
+
+[BLOCK_392][SLIDE_200_SHAPE_5_PARA_5]
+an benefit of a doubt that errors may still be
+
+[BLOCK_393][SLIDE_200_SHAPE_5_PARA_6]
+possible within the certified system. Therefore the
+
+[BLOCK_394][SLIDE_200_SHAPE_5_PARA_7]
+disclaimer is that the certificate is issued with the
+
+[BLOCK_395][SLIDE_200_SHAPE_5_PARA_8]
+believe that the system is materially risk free.
